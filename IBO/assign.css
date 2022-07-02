@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+}
+button{
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin: 20px;
+}
+
+button:hover{
+    color: rgb(222, 194, 142);
+}
